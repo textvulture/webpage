@@ -47,6 +47,11 @@ main_menu:
   show_search: true
   highlight_active_link: true
 
+projects:
+  post_view: 10
+  publication_view: 10
+  talk_view: 10
+  
 # Localization
 
 date_format: 'Jan 2, 2006'
