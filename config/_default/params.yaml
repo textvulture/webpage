@@ -1,0 +1,55 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: minimal
+day_night: true
+font: ''
+font_size: L
+
+# SEO
+
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+twitter: ''
+
+# Contact (edit or remove options as required)
+
+email: kalkas@gmail.com
+phone: 703-993-9185 (Program's Phone)
+address:
+  street: 4400 University Drive (6b4)
+  city: Fairfax
+  region: VA
+  postcode: '22030'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '38.83035412008299'
+  longitude: '-77.30717181238121'
+
+office_hours:
+  - 'T&R 13:30 to 15:00'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+

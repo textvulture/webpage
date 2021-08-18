@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate | Byunghwan Son</title>
+    <link>https://academic-demo.netlify.app/tag/graduate/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/graduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Graduate</title>
+      <link>https://academic-demo.netlify.app/tag/graduate/</link>
+    </image>
+    
+    <item>
+      <title>GLOA Capstone Research Seminar (GLOA 720, Spring 2021)</title>
+      <link>https://academic-demo.netlify.app/project/gloa720/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/gloa720/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Studies in Globalization: Globalization in Asia (GLOA 615-01, Spring 2020)</title>
+      <link>https://academic-demo.netlify.app/project/gloa615/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/gloa615/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Research Methods (GLOA 605, Fall 2016)</title>
+      <link>https://academic-demo.netlify.app/project/gloa605/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/gloa605/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
