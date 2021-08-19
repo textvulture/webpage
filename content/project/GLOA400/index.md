@@ -1,5 +1,5 @@
 ---
-date: "2021-09-01"
+date: "2021-07-01"
 tags:
 - Undergraduate
 title: "GLOA Capstone: Globalization in Asia (GLOA 400-01, Fall 2021)"
