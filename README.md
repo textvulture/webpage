@@ -1,2 +1,2 @@
 # webpage
-personal webpage repo: but I am still working on it!
+personal webpage repo: I am still working on it!
