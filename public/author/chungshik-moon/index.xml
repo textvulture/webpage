@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chungshik Moon | Byunghwan Son</title>
+    <link>https://academic-demo.netlify.app/author/chungshik-moon/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/chungshik-moon/index.xml" rel="self" type="application/rss+xml" />
+    <description>chungshik Moon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>chungshik Moon</title>
+      <link>https://academic-demo.netlify.app/author/chungshik-moon/</link>
+    </image>
+    
+    <item>
+      <title>Security Threats and Investment: North Korean Threats and the South Korean Stock Market</title>
+      <link>https://academic-demo.netlify.app/publication/son2021b/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/son2021b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
