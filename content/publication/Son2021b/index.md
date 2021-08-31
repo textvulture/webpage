@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Ffinance]
-publication: '*Pacific Focus*'
+publication: '*Pacific Focus*, Accepted for Publication'
 publication_short: ""
 publication_types:
 - "2"
