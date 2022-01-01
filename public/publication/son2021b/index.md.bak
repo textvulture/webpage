@@ -4,13 +4,13 @@ authors:
 - admin
 - Chungshik Moon
 date: "2021-08-31"
-doi: https://doi.org/10.1111/pafo.12198
+doi: tbd
 featured: false
 image:
   focal_point: ""
   preview_only: false
-projects: [Finance]
-publication: '*Pacific Focus*, 36(3): 544-569'
+projects: [Ffinance]
+publication: '*Pacific Focus*, Accepted for Publication'
 publication_short: ""
 publication_types:
 - "2"
