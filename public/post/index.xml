@@ -99,7 +99,11 @@ data.head()
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 &lt;div id=&#34;chart-496532718&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+=======
+&lt;div id=&#34;chart-632459871&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> parent of a2b4fec (update 01012022)
 =======
 &lt;div id=&#34;chart-632459871&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 >>>>>>> parent of a2b4fec (update 01012022)
@@ -113,7 +117,11 @@ data.head()
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
 <<<<<<< HEAD
+<<<<<<< HEAD
         Plotly.plot(&#39;chart-496532718&#39;, chart.data, chart.layout, {responsive: true});
+=======
+        Plotly.plot(&#39;chart-632459871&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> parent of a2b4fec (update 01012022)
 =======
         Plotly.plot(&#39;chart-632459871&#39;, chart.data, chart.layout, {responsive: true});
 >>>>>>> parent of a2b4fec (update 01012022)
