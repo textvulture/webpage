@@ -12,7 +12,7 @@ email: "kalkas@gmail.com"
 highlight_name: false
 interests:
 - international and comparative political economy
-- Asian politics
+- politics in Asia
 - politics of inequality
 - political communication
 - quantitative methods
