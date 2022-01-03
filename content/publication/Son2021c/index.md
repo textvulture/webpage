@@ -3,14 +3,14 @@ abstract: Are democratic crises also human crises? While the determinants of the
 authors:
 - admin
 - Nisha Bellinger
-date: "2022-01-01"
-doi: https://doi.org/10.1080/00220388.2021.2017891
+date: "2021-11-25"
+doi: tbd
 featured: false
 image:
   focal_point: ""
   preview_only: false
 projects: [Backsliding]
-publication: '*Journal of Development Studies*, Forthcoming'
+publication: '*Journal of Development Studies*, Accepted for Publication'
 publication_short: ""
 publication_types:
 - "2"
