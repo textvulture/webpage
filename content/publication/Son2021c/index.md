@@ -16,8 +16,8 @@ publication_types:
 - "2"
 
 title: "The Health Cost of Autocratization"
-url_code: "tba"
-url_dataset: ""
+url_code: healthcost.do
+url_dataset: healthcost.dta
 url_pdf: ""
 url_poster: ""
 url_project: ""
