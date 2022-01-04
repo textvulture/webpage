@@ -16,8 +16,8 @@ publication_types:
 - "2"
 
 title: "The Health Cost of Autocratization"
-url_code: healthcost.do
-url_dataset: healthcost.dta
+url_code: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021c/healthcost.do
+url_dataset: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021c/healthcost.dta
 url_pdf: ""
 url_poster: ""
 url_project: ""
