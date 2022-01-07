@@ -15,7 +15,7 @@ publication_types:
 - "2"
 
 title: "Presidential Approval Ratings and the Foreign Exchange Market: The Korean Won under the Park Guen Hye Government"
-url_code: "tba"
+url_code: ""
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
