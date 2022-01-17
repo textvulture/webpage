@@ -16,14 +16,17 @@ publication_types:
 - "2"
 
 title: "The Health Cost of Autocratization"
-url_code: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021c/healthcost.do
-url_dataset: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021c/healthcost.dta
+url_code: healthcost.do
+url_dataset: healthcost.dta
 url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+Links:
+- icon: 
+  icon_pack: fab
+  name: Appendix
+  url: https://www.tandfonline.com/doi/suppl/10.1080/00220388.2021.2017891?scroll=top
 ---
-
-[Link to Appendix](https://www.tandfonline.com/doi/suppl/10.1080/00220388.2021.2017891?scroll=top)
