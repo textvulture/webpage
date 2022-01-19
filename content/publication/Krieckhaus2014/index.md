@@ -18,7 +18,7 @@ publication_types:
 - "2"
 
 title: Economic Inequality and Democratic Support
-url_code: "tbd"
+url_code: code.zip
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
@@ -26,10 +26,4 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-Links:
-- icon: 
-  icon_pack: fab
-  name: Appendix
-  url: code.zip
-
 ---
