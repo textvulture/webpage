@@ -26,4 +26,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+Links:
+- icon: 
+  icon_pack: fab
+  name: Appendix
+  url: https://www.journals.uchicago.edu/doi/suppl/10.1017/S0022381613001229
 ---
