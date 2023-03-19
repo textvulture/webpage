@@ -8,7 +8,7 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
-projects: [Finance]
+projects: ""
 publication: '<span style="color:yellow"> *Journal of Cultural Economics*</span>, **Accepted for Publication**'
 publication_short: ""
 publication_types:
