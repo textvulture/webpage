@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*Japanese Journal of Political Science*'</span>, 21(4): 179-193'
+publication: '<span style="color:yellow">*Japanese Journal of Political Science*</span>, 21(4): 179-193'
 publication_short: ""
 publication_types:
 - "2"
