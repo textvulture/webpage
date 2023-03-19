@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Finance]
-publication: '<span style="color:yellow"> *Journal of Cultural Economics*</span>, **Accepted for Publication**'
+publication: '<span style="color:green"> *Journal of Cultural Economics*</span>, **Accepted for Publication**'
 publication_short: ""
 publication_types:
 - "2"
