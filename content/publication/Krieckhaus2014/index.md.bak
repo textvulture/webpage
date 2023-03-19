@@ -31,4 +31,9 @@ Links:
   icon_pack: fab
   name: Appendix
   url: https://www.journals.uchicago.edu/doi/suppl/10.1017/S0022381613001229
+- icon: 
+  icon_pack: fab
+  name: MediaAppearance
+  url: https://journalsuchicago.altmetric.com/details/1928223/news
 ---
+

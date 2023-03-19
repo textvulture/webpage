@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [finance]
-publication: '*Journal of Peace Research*, 52(4): 448--462'
+publication: ''<span style="color:yellow">*Journal of Peace Research*</span>, 52(4): 448--462'
 publication_short: ""
 publication_types:
 - "2"

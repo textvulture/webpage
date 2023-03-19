@@ -15,8 +15,8 @@ publication_types:
 - "2"
 
 title: "Presidential Approval Ratings and the Foreign Exchange Market: The Korean Won under the Park Guen Hye Government"
-url_code: ""
-url_dataset: ""
+url_code: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021a/Son2021_AsianSurvey.do
+url_dataset: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021a/Son2021_AsianSurvey.dta
 url_pdf: ""
 url_poster: ""
 url_project: ""
