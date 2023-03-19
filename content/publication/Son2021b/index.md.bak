@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Ffinance]
-publication: '*Pacific Focus* 36(3): 544-569'
+publication: ''<span style="color:yellow">*Pacific Focus*</span>, 36(3): 544-569'
 publication_short: ""
 publication_types:
 - "2"

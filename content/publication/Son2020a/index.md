@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [finance]
-publication: ''<span style="color:yellow">*Foreign Policy Analysis*</span>, 16(3): 417-437'
+publication: '<span style="color:yellow">*Foreign Policy Analysis*</span>, 16(3): 417-437'
 publication_short: ""
 publication_types:
 - "2"
