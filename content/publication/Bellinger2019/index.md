@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Finance]
-publication: '<span style="color:yellow">*Political Studies*</span>, 67(3): 712-723'
+publication: '<span style="color:green">*Political Studies*</span>, 67(3): 712-723'
 publication_short: ""
 publication_types:
 - "2"

@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*Pacific Review*</span>, 31(5): 573--597'
+publication: '<span style="color:green">*Pacific Review*</span>, 31(5): 573--597'
 publication_short: ""
 publication_types:
 - "2"

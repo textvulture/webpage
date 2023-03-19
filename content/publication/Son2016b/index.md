@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*Journal of East Asian Studies*</span>, 16(2): 219--237'
+publication: '<span style="color:green">*Journal of East Asian Studies*</span>, 16(2): 219--237'
 publication_short: ""
 publication_types:
 - "2"

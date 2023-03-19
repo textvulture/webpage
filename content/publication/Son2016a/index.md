@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*International Political Science Review*</span>, 37(4): 453--46'
+publication: '<span style="color:green">*International Political Science Review*</span>, 37(4): 453--46'
 publication_short: ""
 publication_types:
 - "2"

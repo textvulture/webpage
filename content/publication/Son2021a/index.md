@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*Asian Survey*</span>, 61(5): 767–796'
+publication: '<span style="color:green">*Asian Survey*</span>, 61(5): 767–796'
 publication_short: ""
 publication_types:
 - "2"

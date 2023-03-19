@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '<span style="color:yellow">*Journal of Politics*</span>, 76(1): 139--151'
+publication: '<span style="color:green">*Journal of Politics*</span>, 76(1): 139--151'
 publication_short: ""
 publication_types:
 - "2"
