@@ -11,15 +11,16 @@ education:
 email: "kalkas@gmail.com"
 highlight_name: false
 interests:
-- international and comparative political economy
+- political economy
 - politics in Asia
-- politics of inequality
 - political communication
 - quantitative methods
 organizations:
 - name: George Mason University 
   url: https://globalaffairs.gmu.edu/
-role: Global Affairs Program
+role: 
+- name: Global Affairs Program
+  url: https://globalaffairs.gmu.edu/people/bson3
 social:
 - icon: envelope
   icon_pack: fas
