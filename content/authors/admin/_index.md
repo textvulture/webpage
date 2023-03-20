@@ -36,7 +36,7 @@ social:
   icon_pack: fab
   link: https://github.com/textvulture/
 - icon: building-columns
-  icon_pack: fab
+  icon_pack: fas
   link: https://globalaffairs.gmu.edu/people/bson3
 superuser: false
 title: Byunghwan Son
