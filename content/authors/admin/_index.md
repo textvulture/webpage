@@ -12,15 +12,13 @@ email: "kalkas@gmail.com"
 highlight_name: false
 interests:
 - political economy
-- politics in Asia
 - political communication
+- politics in Asia
 - quantitative methods
 organizations:
 - name: George Mason University 
   url: https://globalaffairs.gmu.edu/
-role: 
-- name: Global Affairs Program
-  url: https://globalaffairs.gmu.edu/people/bson3
+role: Global Affairs Program
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/textvulture/
+- icon: building-columns
+  icon_pack: fab
+  link: https://globalaffairs.gmu.edu/people/bson3
 superuser: false
 title: Byunghwan Son
 ---
