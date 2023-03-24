@@ -15,7 +15,7 @@ publication_types:
 - "2"
 
 title: "Foreign Pop Culture and Backlash: the case of non-fan K-pop Subreddits during the pandemic"
-url_code: "tba"
+url_code: Interrupted.R
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
