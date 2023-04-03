@@ -45,4 +45,4 @@ title: Byunghwan Son
 ---
 Byunghwan "Ben" Son (손병환) is an Associate Professor of [Global Affairs Program](https://globalaffairs.gmu.edu/) at George Mason University. He also serves as a director of the [Asia-Pacific & Northeast Asian Studies](https://global.gmu.edu/programs/LA-MINOR-LA-APNS) minor program, and an associate director of the [Korean Studies Center](https://koreanstudiescenter.gmu.edu/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_01012022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_04032023.pdf" "newtab" >}}CV{{< /staticref >}}.
