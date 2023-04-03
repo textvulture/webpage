@@ -27,16 +27,15 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/Byunghwan_Son
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=h0o27GgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/textvulture/
-- icon: building-columns
-  icon_pack: fas
+- icon: :man_teacher:	
+  icon_pack: emoji
   link: https://globalaffairs.gmu.edu/people/bson3
 superuser: false
 title: Byunghwan Son
