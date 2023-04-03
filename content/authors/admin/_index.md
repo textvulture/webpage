@@ -34,7 +34,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/textvulture/
-- icon: :man_teacher:	
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/byunghwan-son-285698270/
+- icon: 👨‍🏫
   icon_pack: emoji
   link: https://globalaffairs.gmu.edu/people/bson3
 superuser: false

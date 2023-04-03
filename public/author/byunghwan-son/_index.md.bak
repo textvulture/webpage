@@ -11,10 +11,9 @@ education:
 email: "kalkas@gmail.com"
 highlight_name: false
 interests:
-- international and comparative political economy
-- politics in Asia
-- politics of inequality
+- political economy
 - political communication
+- politics in Asia
 - quantitative methods
 organizations:
 - name: George Mason University 
@@ -28,17 +27,22 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/Byunghwan_Son
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=h0o27GgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/textvulture/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/byunghwan-son-285698270/
+- icon: man_teacher	
+  icon_pack: emoji
+  link: https://globalaffairs.gmu.edu/people/bson3
 superuser: false
 title: Byunghwan Son
 ---
-Byunghwan "Ben" Son (손병환) is an Associate Professor of [Global Affairs Program](https://globalaffairs.gmu.edu/) at George Mason University. He also serves as the director of the [Asia-Pacific & Northeast Asian Studies](https://global.gmu.edu/programs/LA-MINOR-LA-APNS) minor program, the associate director of the [Korean Studies Center](https://koreanstudiescenter.gmu.edu/), and a University Faculty Affiliate of [Schar School of Policy & Government](https://schar.gmu.edu/).
+Byunghwan "Ben" Son (손병환) is an Associate Professor of [Global Affairs Program](https://globalaffairs.gmu.edu/) at George Mason University. He also serves as a director of the [Asia-Pacific & Northeast Asian Studies](https://global.gmu.edu/programs/LA-MINOR-LA-APNS) minor program, and an associate director of the [Korean Studies Center](https://koreanstudiescenter.gmu.edu/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_11242021_2.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_01012022.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Inequality]
-publication: '*Journal of East Asian Studies*, 20(2): 267-290'
+publication: '<span style="color:yellow">*Journal of East Asian Studies*</span>, 20(2): 267-290'
 publication_short: ""
 publication_types:
 - "2"
@@ -23,4 +23,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+Links:
+- icon: 
+  icon_pack: fab
+  name: Appendix
+  url: Appendix.pdf
 ---

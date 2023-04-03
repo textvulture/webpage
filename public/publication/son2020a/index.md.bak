@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [finance]
-publication: '*Foreign Policy Analysis*, 16(3): 417-437'
+publication: '<span style="color:yellow">*Foreign Policy Analysis*</span>, 16(3): 417-437'
 publication_short: ""
 publication_types:
 - "2"
@@ -23,4 +23,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+Links:
+- icon: 
+  icon_pack: fab
+  name: Appendix
+  url: Appendix.pdf
 ---
