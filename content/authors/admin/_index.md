@@ -15,6 +15,7 @@ interests:
 - political communication
 - politics in Asia
 - quantitative methods
+- global economic governance
 organizations:
 - name: George Mason University 
   url: https://globalaffairs.gmu.edu/
