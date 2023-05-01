@@ -3,7 +3,7 @@ abstract: Communication research establishes that when confronted with informati
 authors:
 - admin
 date: "2023-03-18"
-doi: https://link.springer.com/article/10.1007/s10824-023-09475-w
+doi: https://doi.org/10.1007/s10824-023-09475-w
 featured: false
 image:
   focal_point: ""
