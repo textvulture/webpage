@@ -15,9 +15,9 @@ publication_types:
 - "2"
 
 title: "Foreign Pop Culture and Backlash: the case of non-fan K-pop Subreddits during the pandemic"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
+url_code: "kpop_replication.R"
+url_dataset: "Son2023_rep_Rdata.zip"
+url_pdf: "Son2023.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
