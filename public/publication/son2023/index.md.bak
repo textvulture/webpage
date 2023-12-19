@@ -3,19 +3,18 @@ abstract: Communication research establishes that when confronted with informati
 authors:
 - admin
 date: "2023-03-18"
-doi: 
+doi: https://link.springer.com/article/10.1007/s10824-023-09475-w
 featured: false
 image:
   focal_point: ""
   preview_only: false
 projects: [Finance]
-publication: '<span style="color:yellow"> *Journal of Cultural Economics*</span>, **Accepted for Publication**'
+publication: '<span style="color:green"> *Journal of Cultural Economics*</span>, Forthcoming
 publication_short: ""
 publication_types:
 - "2"
 
 title: "Foreign Pop Culture and Backlash: the case of non-fan K-pop Subreddits during the pandemic"
-url_code: "tba"
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
