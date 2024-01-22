@@ -15,9 +15,9 @@ publication_types:
 - "2"
 
 title: "Interpersonal Trust and Confidence in Labor Unions: The Case of South Korea"
-url_code: "tba"
-url_dataset: ""
-url_pdf: ""
+url_code: "analysis.do"
+url_dataset: "data.dta"
+url_pdf: "Son2020b.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
