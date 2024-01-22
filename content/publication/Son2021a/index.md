@@ -8,16 +8,16 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
-projects: [Inequality]
+projects: 
 publication: '<span style="color:green">*Asian Survey*</span>, 61(5): 767–796'
 publication_short: ""
 publication_types:
 - "2"
 
 title: "Presidential Approval Ratings and the Foreign Exchange Market: The Korean Won under the Park Guen Hye Government"
-url_code: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021a/Son2021_AsianSurvey.do
-url_dataset: https://github.com/textvulture/webpage/blob/main/content/publication/Son2021a/Son2021_AsianSurvey.dta
-url_pdf: ""
+url_code: "Son2021_AsianSurvey.do"
+url_dataset: "Son2021_AsianSurvey.dta"
+url_pdf: "Son2021a.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
