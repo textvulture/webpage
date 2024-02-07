@@ -16,11 +16,11 @@ publication_types:
 
 title: "Foreign Policy Consequences of Democratic Backsliding: The case of the Comfort Women Agreement in 2015"
 url_code: ""
-url_dataset: "https://textvulture.github.io/agreement2015_slide.html"
+url_dataset: ""
 url_pdf: "Son2024.pdf"
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://textvulture.github.io/agreement2015_slide.html"
 url_source: ""
 url_video: ""
 ---

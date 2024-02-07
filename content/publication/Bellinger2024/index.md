@@ -19,7 +19,7 @@ publication_types:
 
 title: "The Political Economy of Life Satisfaction: Democracy, National Wealth, and Personal Income"
 url_code: "LifeSat_Replication.zip"
-url_pdf: ""
+url_pdf: "Bellinger2024.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
