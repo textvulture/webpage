@@ -6,7 +6,7 @@ authors:
 - Jonathan Krieckhaus
 - admin
 date: "2024-01-01"
-doi: 
+doi: "https://doi.org/10.1093/ijpor/edae001"
 featured: false
 image:
   focal_point: ""
