@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-publication: '<span style="color:green"> *International Journal of Public Opinion Research*</span>, Accepted for Publication'
+publication: '<span style="color:green"> *International Journal of Public Opinion Research*</span>, Forthcoming.'
 publication_short: ""
 publication_types:
 - "2"
