@@ -3,7 +3,7 @@ abstract: Recent studies have documented the profound effects that democratic ba
 authors:
 - admin
 date: "2024-02-06"
-doi: "http://dx.doi.org/10.1080/09512748.2024.2317277"
+doi: "https://doi.org/10.1080/09512748.2024.2317277"
 featured: false
 image:
   focal_point: ""
