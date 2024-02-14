@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Finance]
-publication: '<span style="color:green"> *The Pacific Review*</span>, Accepted for Publication'
+publication: '<span style="color:green"> *The Pacific Review*</span>, Forthcoming'
 publication_short: ""
 publication_types:
 - "2"
