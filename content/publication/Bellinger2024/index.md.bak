@@ -5,21 +5,22 @@ authors:
 - Nisha Bellinger
 - Jonathan Krieckhaus
 - admin
-date: "2023-12-19"
-doi: 
+date: "2024-01-01"
+doi: "https://doi.org/10.1093/ijpor/edae001"
 featured: false
 image:
   focal_point: ""
   preview_only: false
 projects: 
-publication: '<span style="color:green"> *International Journal of Public Opinion Research*</span>, Accepted for Publication'
+publication: '<span style="color:green"> *International Journal of Public Opinion Research*</span>, Forthcoming.'
 publication_short: ""
 publication_types:
 - "2"
 
 title: "The Political Economy of Life Satisfaction: Democracy, National Wealth, and Personal Income"
 url_code: "LifeSat_Replication.zip"
-url_pdf: ""
+url_replication: "LifeSat_Replication.zip"
+url_pdf: "Bellinger2024.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
