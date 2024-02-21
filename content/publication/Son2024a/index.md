@@ -23,5 +23,9 @@ url_project: ""
 url_slides: "https://textvulture.github.io/bkv.html"
 url_source: ""
 url_video: ""
-url_appendix: "OnlineAppendix.pdf"
+Links:
+- icon:
+	icon_pack: fab
+	name: Appendix
+	url: "OnlineAppendix.pdf"
 ---
