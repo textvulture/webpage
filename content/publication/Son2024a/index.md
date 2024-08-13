@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "2"
 
-title: "THIS PAGE IS NOT UPDATED ANYMORE GO TO: ![https://textvulture.github.io/mypage/research.html](https://textvulture.github.io/mypage/research.html) Consequences of Democratic Backsliding in Popular Culture: Evidence from Blacklist in South Korea"
+title: "THIS PAGE IS NOT UPDATED ANYMORE GO TO: [https://textvulture.github.io/mypage/research.html](https://textvulture.github.io/mypage/research.html) Consequences of Democratic Backsliding in Popular Culture: Evidence from Blacklist in South Korea"
 url_code: ""
 url_dataset: ""
 url_pdf: "Son2024a.pdf"
